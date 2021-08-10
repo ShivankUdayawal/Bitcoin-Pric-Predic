@@ -1,5 +1,7 @@
 # Bitcoin Price Prediction
+## Predicting the Bitcoin Price
 
+## Introduction
 #### Bitcoin is the first digital decentralized cryptocurrency that has shown a significant increase in market capitalization in recent years. The objective of this paper is to determine the predictable price direction of Bitcoin in USD by machine learning techniques and sentiment analysis.
 
 ![](https://github.com/ShivankUdayawal/Bitcoin-Pric-Predic/blob/main/Data%20Visualization/01.png)
