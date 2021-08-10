@@ -29,3 +29,16 @@
  ![](https://github.com/ShivankUdayawal/Bitcoin-Pric-Predic/blob/main/Data%20Visualization/20.jpg)
  
  ![](https://github.com/ShivankUdayawal/Bitcoin-Pric-Predic/blob/main/Data%20Visualization/21.jpg)
+ 
+ ### MA Model
+ ![](https://github.com/ShivankUdayawal/Bitcoin-Pric-Predic/blob/main/Data%20Visualization/22.jpg)
+ 
+ 
+ ### ARIMA Combined Model
+ ![](https://github.com/ShivankUdayawal/Bitcoin-Pric-Predic/blob/main/Data%20Visualization/25.jpg)
+ 
+ ![](https://github.com/ShivankUdayawal/Bitcoin-Pric-Predic/blob/main/Data%20Visualization/26.jpg)
+ 
+ 
+ ![](https://github.com/ShivankUdayawal/Bitcoin-Pric-Predic/blob/main/Data%20Visualization/29.jpg)
+ 
